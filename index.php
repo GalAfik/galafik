@@ -127,7 +127,7 @@
               <li>Work in a Scrum group environment using Git versioning control</li>
             </ul>
           </div>
-          <h5>May 2016 – Jun 2017</h5>
+          <h5>May 2016 – Present</h5>
         </div>
       </div>
       <div class="well">
@@ -161,7 +161,9 @@
           <img class="span3" src="img/ecompex.png">
           <div class="span6">
             <h4>Software Development Consultant</h4>
-            <p>Designed a PTO Tracking system for internal company-wide use</p>
+            <ul>
+              <li>Designed a PTO Tracking system for internal company-wide use</li>
+            </ul>
           </div>
           <h5>2014</h5>
         </div>
@@ -185,7 +187,9 @@
           <img class="span3" src="img/visarts.png">
           <div class="span6">
             <h4>Web Design Intern</h4>
-            <p>Worked hands-on with clients in order to build unique websites</p>
+            <ul>
+              <li>Worked hands-on with clients in order to build unique websites</li>
+            </ul>
           </div>
           <h5>2009</h5>
         </div>
