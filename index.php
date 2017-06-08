@@ -55,7 +55,7 @@
     <div class="jumbotron">
       <h1>Software Developer</h1>
       <p class="lead">Seeking a full-time software or website developement position. For a full list of skills and qualifications, download my resume below.</p>
-      <a class="btn btn-large btn-success btn-custom" href="pdf/resume.pdf" target="_blank"><i class="icon-file icon-white"></i>Download</a>
+      <a class="btn btn-large btn-success btn-custom" href="pdf/GalPhillipAfik.pdf" target="_blank"><i class="icon-file icon-white"></i>Download</a>
     </div>
 
     <hr/>
