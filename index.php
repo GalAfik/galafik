@@ -2,14 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Gal Afik &middot; Java Programmer</title>
+  <title>Gal Afik &middot; Programmer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="This is Gal Afik's personal website.">
+  <meta name="author" content="Gal Afik">
 
-  <!-- Le styles -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="ico/favicon.png">
+  <link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Nobile" rel="stylesheet" type="text/css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
 
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
@@ -22,28 +30,14 @@
       }
     </style>
   <![endif]-->
-
-  <!-- Fav and touch icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-                  <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-                                 <link rel="shortcut icon" href="ico/favicon.png">
-
-
-  <link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Nobile" rel="stylesheet" type="text/css">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="css/custom.css" rel="stylesheet">
 </head>
+
 
 <body>
 
   <div class="container-narrow">
-
     <div class="masthead">
       <ul class="nav nav-pills pull-right">
-        <li class="active"><a href="#">Welcome</a></li>
         <li><a href="#marketing">Skills</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -55,7 +49,9 @@
     <div class="jumbotron">
       <h1>Software Developer</h1>
       <p class="lead">Seeking a full-time software or website developement position. For a full list of skills and qualifications, download my resume below.</p>
-      <a class="btn btn-large btn-success btn-custom" href="pdf/GalPhillipAfik.pdf" target="_blank"><i class="icon-file icon-white"></i>Download</a>
+      <a class="btn btn-large btn-success btn-custom" href="pdf/GalPhillipAfik.pdf" target="_blank" style="margin-bottom:20px;"><i class="icon-file icon-white"></i>Download</a>
+      <p class="lead">...and check out my github page for more!</p>
+      <a href="https://github.com/GalAfik" target="_blank"><img src="img/Octocat.png" style="max-width:100px;"></a>
     </div>
 
     <hr/>
@@ -74,9 +70,9 @@
 
     <div class="row-fluid">
       <div class="about span6">
-        <img alt="HackUMBC" src="img/mlh.png">
+        <img alt="Oracle Certified Associate" src="img/oca.gif">
       </div>
-      <div class="span6" align="center"><p><h3>Top 10</h3><h4> HackUMBC 2014</h4></div>
+      <div class="span6" align="center"><p><h3>OCA</h3><h4> January 2016</h4></div>
     </div>
 
     <hr/>
@@ -105,9 +101,9 @@
 
     <div class="row-fluid">
       <div class="about span6">
-        <img alt="Oracle Certified Associate" src="img/oca.gif">
+        <img alt="HackUMBC" src="img/mlh.png">
       </div>
-      <div class="span6" align="center"><p><h3>OCA</h3><h4> January 2016</h4></div>
+      <div class="span6" align="center"><p><h3>Top 10</h3><h4> HackUMBC 2014</h4></div>
     </div>
 
     <hr/>
@@ -174,7 +170,7 @@
           <div class="span6">
             <h4>Web Developer Intern</h4>
             <ul>
-              <li>Designed websites using industry standard methods for large corporate entities such as Snyder’s Pretzels, Dixon Valve, and Polk Audio</li>
+              <li>Designed websites using industry standard methds for large corporate entities such as Snyder’s Pretzels, Dixon Valve, and Polk Audio</li>
               <li>Trained in industry-leading technologies including Drupal, Joomla, and Wordpress.</li>
               <li>Studied Python application coding and methodology using Django</li>
             </ul>
@@ -216,55 +212,22 @@
 
     <div class="footer">
       <div class="pull-right">
-        <a href="https://www.facebook.com/gal.afik.9" target="_blank"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
-        <a href="https://www.linkedin.com/in/galafik" target="_blank"><i id="social" class="fa fa-linkedin-square fa-3x social-li"></i></a>
-        <a href="https://twitter.com/GalAfik" target="_blank"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
-        <a href="https://plus.google.com/112212856064297676539" target="_blank"><i id="social" class="fa fa-google-plus-square fa-3x social-gp"></i></a>
+        <a href="https://www.facebook.com/gal.afik." target="_blank"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+        <a href="https://www.linkedin.com/in/galafi" target="_blank"><i id="social" class="fa fa-linkedin-square fa-3x social-li"></i></a>
+        <!-- <a href="https://twittercom/GalAfik" target="_blank"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a> -->
+        <a href="https://plus.google.com/11221285606427676539" target="_blank"><i id="social" class="fa fa-google-plus-square fa-3x social-gp"></i></a>
       </div>
-      <p>&copy; Afik Web Designs 2013-2016</p>
+      <p>&copy; Gal Afik 2013-2017</p>
     </div>
 
   </div> <!-- /container -->
 
-  <!-- Le javascript
-  ================================================== -->
+
+
   <!-- Placed at the end of the document so the pages load faster -->
-  <script src="js/jquery.js"></script>
-  <script src="js/bootstrap-transition.js"></script>
-  <script src="js/bootstrap-alert.js"></script>
-  <script src="js/bootstrap-modal.js"></script>
-  <script src="js/bootstrap-dropdown.js"></script>
-  <script src="js/bootstrap-scrollspy.js"></script>
-  <script src="js/bootstrap-tab.js"></script>
-  <script src="js/bootstrap-tooltip.js"></script>
-  <script src="js/bootstrap-popover.js"></script>
-  <script src="js/bootstrap-button.js"></script>
-  <script src="js/bootstrap-collapse.js"></script>
-  <script src="js/bootstrap-carousel.js"></script>
-  <script src="js/bootstrap-typeahead.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/custom.js"></script>
 
 </body>
 </html>
-
-<script>
-$(document).ready(function () {
-  $('#myCarousel').carousel({
-      interval: 10000
-  })
-  $('.fdi-Carousel .item').each(function () {
-      var next = $(this).next();
-      if (!next.length) {
-          next = $(this).siblings(':first');
-      }
-      next.children(':first-child').clone().appendTo($(this));
-
-      if (next.next().length > 0) {
-          next.next().children(':first-child').clone().appendTo($(this));
-      }
-      else {
-          $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-      }
-  });
-});
-</script>
-
